@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Agentic AI and ML projects**
 
-- 🌱 I’m currently learning **Langgraph and other agentic frameworks**
+- 🌱 I’m currently learning **Agentic and Backend frameworks**
 
-- 👯 I’m looking to collaborate on **AI or backend projects**
+- 👯 I’m looking to collaborate on **Projects in AI/ML domain**
 
 - 📫 How to reach me **gauthampraveen76@gmail.com**
 
